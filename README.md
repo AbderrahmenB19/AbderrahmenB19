@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Abderrahmen from Tunisia <br><br>- 🔭 I’m working as software developer<br>- 📚 I'm currently learning software-engineering degree<br>- ⚡ In my free time I solve problems in leetcode</p>
 
 ###
 
